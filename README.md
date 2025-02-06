@@ -1,4 +1,6 @@
-# Rspress website
+# Steps to reproduce
+
+<https://github.com/web-infra-dev/rspress/issues/1818>
 
 ## Setup 1
 
