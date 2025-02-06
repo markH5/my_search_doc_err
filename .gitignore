@@ -9,6 +9,6 @@ dist/
 doc_build/
 
 # IDE
-.vscode/*
+# .vscode/*
 !.vscode/extensions.json
 .idea
